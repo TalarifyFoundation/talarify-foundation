@@ -5,7 +5,7 @@ title: "Africa R Users"
 summary: "A community of practice for African analysts and researchers interested in the intersection of data visualisation and mapping, African data with geospatial components, and the R programming language."
 authors: []
 tags: ["Open Source", "Open Educational Resources"]
-categories: ["Open Source", "Community of Practice", "#rstats", "geospatial"]
+categories: ["Open Source", "Community of Practice", "R", "geospatial"]
 date: 2022-06-27T13:28:48+02:00
 
 # Optional external URL for project (replaces project detail page).
