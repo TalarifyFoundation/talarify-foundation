@@ -40,7 +40,7 @@ content:
     - name: Open Hardware
       tag: Open Hardware    
     - name: Other
-      tag: Demo
+      tag: Other
 
 
 design:

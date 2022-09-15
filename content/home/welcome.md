@@ -7,7 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  <strong>An African open science ecosystem partner</strong>
+  <strong>Your African open science ecosystem partner</strong>
     {style="color: #d46852; font-size: 3.2rem; "} 
 hero_media: openscience.png
 hero_link: https://en.unesco.org/sites/default/files/open_science_brochure_en.pdf
