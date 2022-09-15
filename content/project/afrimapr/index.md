@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Africa R Users"
+title: "afrimapr"
 summary: "A community of practice for African analysts and researchers interested in the intersection of data visualisation and mapping, African data with geospatial components, and the R programming language."
 authors: []
 tags: ["Open Source", "Open Educational Resources"]
