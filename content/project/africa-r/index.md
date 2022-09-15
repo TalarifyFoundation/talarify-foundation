@@ -5,7 +5,7 @@ title: "Africa R Users"
 summary: "The African R community has grown considerably over the past decade with numerous RLadies and R User Group communities being established. Africa R Users is a community that brings together analysts, researchers, students, and data scientists from across the continent."
 authors: []
 tags: ["Open Source"]
-categories: ["Open Source", "Community of Practice", "#rstats"]
+categories: ["Open Source", "Community of Practice", "R"]
 date: 2022-06-27T13:28:48+02:00
 
 # Optional external URL for project (replaces project detail page).
